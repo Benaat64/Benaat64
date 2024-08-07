@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Benaat64
-- 👀 I’m interested in Oui-Oui
-- 🌱 I’m currently learning Baguette 🥖
-- 💞️ I’m looking to collaborate on ME 
-- 📫 How to reach me CALL ME 
-- 😄 Pronouns: AC-130
-- ⚡ Fun fact: I M A TREE
+## 👋 Bonjour, je suis Esquerra Romain !
 
-<!---
-Benaat64/Benaat64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌟 À propos de moi
+
+Je suis étudiant en formation Full Stack JavaScript chez O'clock, où j'apprends à maîtriser les technologies du développement web moderne. Passionné par la programmation et les technologies web, je suis à la recherche d'un stage pour mettre en pratique mes compétences et contribuer à des projets innovants.
+
+### 🎓 Éducation
+
+- **O'clock**
+  - Formation Full Stack JavaScript
+  - Dates : Mars 2024 - Novembre 2024
+
+### 💻 Compétences Techniques
+
+- **Langages de programmation :** JavaScript (ES6+), HTML, CSS
+- **Frameworks et bibliothèques :** React, Node.js, Express
+- **Bases de données :** PSQL
+- **Outils et environnements :** Git, GitHub, Docker
+
+
+### 🌱 Objectifs
+
+Je suis actuellement à la recherche d'un stage en développement web Full Stack pour mettre en pratique mes compétences, apprendre des professionnels du domaine et contribuer à des projets significatifs. Je suis motivé, curieux et toujours prêt à relever de nouveaux défis.
+
+### 📫 Me contacter
+
+- **Email :** romain.esquerra@gmail.com
+- **Portfolio :** https://esquerra.vercel.app
