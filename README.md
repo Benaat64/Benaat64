@@ -15,7 +15,7 @@ Je suis étudiant en formation Full Stack JavaScript chez O'clock, où j'apprend
 - **Langages de programmation :** JavaScript (ES6+), HTML, CSS
 - **Frameworks et bibliothèques :** React, Node.js, Express
 - **Bases de données :** PSQL
-- **Outils et environnements :** Git, GitHub, Docker
+- **Outils et environnements :** Git, GitHub, Docker.
 
 
 ### 🌱 Objectifs
