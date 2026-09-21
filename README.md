@@ -1,28 +1,26 @@
 
 <h2>
-  Hey, I'm Romain
-  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="45" alt="Hello" />
+  Salut, moi c'est Romain !
+  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="45" alt="Salut" />
 </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="300" alt="Coding animation" />
+<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="300" alt="Animation développeur" />
 
-### Full-Stack JavaScript Developer
+### Développeur web full-stack JavaScript
 
-📍 Based in Biarritz, France
+📍 Basé à Biarritz, Pays Basque
 
-🎮 Building interactive & multiplayer web experiences
+🎮 Je développe des applications web et des expériences multijoueurs.
 
-🌱 Currently exploring TypeScript and real-time applications
+🌱 J'explore actuellement TypeScript et les applications en temps réel.
 
-💼 Open to new opportunities
+💼 Ouvert aux opportunités professionnelles.
 
-<br>
-
-### A little more about me...
+### Un peu plus sur moi...
 
 ```javascript
 const romain = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  langages: ["JavaScript", "TypeScript", "HTML", "CSS"],
 
   frontend: ["React", "Vite", "Tailwind CSS"],
 
@@ -30,47 +28,41 @@ const romain = {
 
   database: ["PostgreSQL", "Sequelize"],
 
-  currentProject: "PartyGame 🎮",
+  projetActuel: "PartyGame 🎮",
 
-  interests: ["Web development", "Gaming", "Creative projects"],
+  passions: ["Développement web", "Jeux vidéo", "Projets créatifs"],
 
-  coffee: true
+  cafe: true
 };
 ```
 
-<br clear="right">
-
-### Tech stack
+### Mes technologies
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite&theme=dark" alt="Frontend" />
 
-**Backend & Database**
+**Backend & Base de données**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&theme=dark" alt="Backend" />
 
-**Tools**
+**Outils**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Outils" />
 
-<br>
-
-### What I'm building
+### Ce que je développe
 
 **🎮 [PartyGame](https://github.com/Benaat64/partygame)**
 
-A multiplayer web gaming platform built with React, Node.js and Socket.io.
+Une plateforme de mini-jeux multijoueurs développée avec React, Node.js et Socket.io.
 
-Create a room, invite your friends and play together in real time.
+Créez un salon, invitez vos amis et jouez ensemble en temps réel !
 
-<br>
+### Restons en contact !
 
-### Let's connect!
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="45" alt="Contact" />
 
-<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="45" alt="Connect" />
-
-I'm always happy to connect, share ideas and work on interesting projects.
+Toujours partant pour échanger autour du développement web, partager des idées ou collaborer sur de nouveaux projets.
 
 [![Email](https://img.shields.io/badge/Email-8FBCBB?style=flat-square&logo=gmail&logoColor=171717)](mailto:TON_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-8FBCBB?style=flat-square&logo=github&logoColor=171717)](https://github.com/Benaat64)
