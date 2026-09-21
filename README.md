@@ -1,48 +1,35 @@
 
-<h2>
-  Salut, moi c'est Romain !
-  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="45" alt="Salut" />
-</h2>
+## Salut, moi c'est Romain ! <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="40" />
 
-<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="300" alt="Animation développeur" />
+**Développeur web full-stack JavaScript** · 📍 Biarritz, Pays Basque
 
-### Développeur web full-stack JavaScript
-
-📍 Basé à Biarritz, Pays Basque
-
-🎮 Je développe des applications web et des expériences multijoueurs.
-
-🌱 J'explore actuellement TypeScript et les applications en temps réel.
+Je développe des applications web et des expériences multijoueurs. J'aime transformer des idées en projets concrets, du backend jusqu'à l'interface.
 
 💼 Ouvert aux opportunités professionnelles.
 
-### Un peu plus sur moi...
+### `> À propos de moi_`
+
+<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="280" alt="Développeur qui code" />
 
 ```javascript
 const romain = {
-  langages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-
-  frontend: ["React", "Vite", "Tailwind CSS"],
-
+  langages: ["JavaScript", "TypeScript"],
+  frontend: ["React", "Vite", "Tailwind"],
   backend: ["Node.js", "Express", "Socket.io"],
-
   database: ["PostgreSQL", "Sequelize"],
-
   projetActuel: "PartyGame 🎮",
-
-  passions: ["Développement web", "Jeux vidéo", "Projets créatifs"],
-
+  passions: ["Code", "Gaming", "Créativité"],
   cafe: true
 };
 ```
 
-### Mes technologies
+### `> Ma stack_`
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite&theme=dark" alt="Frontend" />
 
-**Backend & Base de données**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&theme=dark" alt="Backend" />
 
@@ -50,19 +37,11 @@ const romain = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Outils" />
 
-### Ce que je développe
+### `> En ce moment_`
 
-**🎮 [PartyGame](https://github.com/Benaat64/partygame)**
+🎮 **[PartyGame](https://github.com/Benaat64/partygame)** : une plateforme de mini-jeux multijoueurs en temps réel, développée avec React, Node.js et Socket.io.
 
-Une plateforme de mini-jeux multijoueurs développée avec React, Node.js et Socket.io.
-
-Créez un salon, invitez vos amis et jouez ensemble en temps réel !
-
-### Restons en contact !
-
-<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="45" alt="Contact" />
-
-Toujours partant pour échanger autour du développement web, partager des idées ou collaborer sur de nouveaux projets.
+### `> Contact_` <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="35" />
 
 [![Email](https://img.shields.io/badge/Email-8FBCBB?style=flat-square&logo=gmail&logoColor=171717)](mailto:TON_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-8FBCBB?style=flat-square&logo=github&logoColor=171717)](https://github.com/Benaat64)
