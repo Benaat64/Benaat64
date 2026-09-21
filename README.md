@@ -50,7 +50,12 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 **Stack :** `React` `Node.js` `Express` `Socket.io`
 
-[🌐 Jouer en ligne](https://partygame-client.vercel.app/) · [💻 Code source](https://github.com/Benaat64/partygame)
+<a href="https://partygame-client.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-A3BE8C?style=for-the-badge&logo=vercel&logoColor=171717" alt="Live Demo" />
+</a>
+<a href="https://github.com/Benaat64/partygame">
+  <img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
 
 </details>
 
@@ -59,7 +64,9 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 Une application web pour suivre et organiser ses finances personnelles.
 
-[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
+<a href="https://github.com/Benaat64?tab=repositories">
+  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
+</a>
 
 </details>
 
@@ -68,7 +75,9 @@ Une application web pour suivre et organiser ses finances personnelles.
 
 Une application de jeux de déduction inspirée du concept DLE, autour de l'univers de League of Legends.
 
-[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
+<a href="https://github.com/Benaat64?tab=repositories">
+  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
+</a>
 
 </details>
 
@@ -77,7 +86,9 @@ Une application de jeux de déduction inspirée du concept DLE, autour de l'univ
 
 Un bot Discord développé en JavaScript autour de l'univers de Teamfight Tactics.
 
-[💻 Découvrir mes dépôts](https://github.com/Benaat64/BOT-TFT)
+<a href="https://github.com/Benaat64/BOT-TFT">
+  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
+</a>
 
 </details>
 
@@ -85,5 +96,9 @@ Un bot Discord développé en JavaScript autour de l'univers de Teamfight Tactic
 
 Toujours partant pour échanger autour du développement web, partager des idées ou collaborer sur de nouveaux projets.
 
-[![Email](https://img.shields.io/badge/Email-8FBCBB?style=flat-square&logo=gmail&logoColor=171717)](mailto:TON_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-8FBCBB?style=flat-square&logo=github&logoColor=171717)](https://github.com/Benaat64)
+<a href="mailto:TON_EMAIL">
+  <img src="https://img.shields.io/badge/Email-A3BE8C?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email" />
+</a>
+<a href="https://github.com/Benaat64">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
