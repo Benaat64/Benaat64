@@ -19,7 +19,7 @@ const romain = {
   database: ["PostgreSQL", "Sequelize"],
   projetActuel: "PartyGame 🎮",
   passions: ["Code", "Gaming", "Créativité"],
-  the: true 🍵
+  boisson: "Thé 🍵"
 };
 ```
 
@@ -50,7 +50,7 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 **Stack :** `React` `Node.js` `Express` `Socket.io`
 
-[Voir le projet →](https://github.com/Benaat64/partygame)
+[🌐 Jouer en ligne](https://partygame-client.vercel.app/) · [💻 Code source](https://github.com/Benaat64/partygame)
 
 </details>
 
@@ -59,16 +59,25 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 Une application web pour suivre et organiser ses finances personnelles.
 
-[Découvrir mes dépôts →](https://github.com/Benaat64?tab=repositories)
+[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
 
 </details>
 
 <details>
-<summary><b>🧩 Mistinguett</b> — Expérience web interactive</summary>
+<summary><b>🧩 DLE-Games</b> — Jeux de devinettes autour de League of Legends</summary>
 
-Un mini-site d'énigmes utilisant notamment les chiffrements de César et de Vigenère.
+Une application de jeux de déduction inspirée du concept DLE, autour de l'univers de League of Legends.
 
-[Découvrir mes dépôts →](https://github.com/Benaat64?tab=repositories)
+[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>🤖 Bot TFT</b> — Bot Discord pour Teamfight Tactics</summary>
+
+Un bot Discord développé en JavaScript autour de l'univers de Teamfight Tactics.
+
+[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
 
 </details>
 
