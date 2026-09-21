@@ -96,7 +96,7 @@ Un bot Discord développé en JavaScript autour de l'univers de Teamfight Tactic
 
 Toujours partant pour échanger autour du développement web, partager des idées ou collaborer sur de nouveaux projets.
 
-<a href="mailto:TON_EMAIL">
+<a href="mailto:romain.esquerra@gmail.com">
   <img src="https://img.shields.io/badge/Email-A3BE8C?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email" />
 </a>
 <a href="https://github.com/Benaat64">
