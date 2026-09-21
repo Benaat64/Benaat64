@@ -77,7 +77,7 @@ Une application de jeux de déduction inspirée du concept DLE, autour de l'univ
 
 Un bot Discord développé en JavaScript autour de l'univers de Teamfight Tactics.
 
-[💻 Découvrir mes dépôts](https://github.com/Benaat64?tab=repositories)
+[💻 Découvrir mes dépôts](https://github.com/Benaat64/BOT-TFT)
 
 </details>
 
