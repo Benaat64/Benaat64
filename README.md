@@ -19,7 +19,7 @@ const romain = {
   database: ["PostgreSQL", "Sequelize"],
   projetActuel: "PartyGame 🎮",
   passions: ["Code", "Gaming", "Créativité"],
-  thea: true
+  the: true 🍵
 };
 ```
 
@@ -29,7 +29,7 @@ const romain = {
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite&theme=dark" alt="Frontend" />
 
-**Backend & Database**
+**Backend & Base de données**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&theme=dark" alt="Backend" />
 
@@ -37,11 +37,44 @@ const romain = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Outils" />
 
-### `> En ce moment_`
+### `> Mes projets_` 🎮
 
-🎮 **[PartyGame](https://github.com/Benaat64/partygame)** : une plateforme de mini-jeux multijoueurs en temps réel, développée avec React, Node.js et Socket.io.
+<details>
+<summary><b>🎮 PartyGame</b> — Plateforme de mini-jeux multijoueurs</summary>
+
+Une plateforme de jeux en temps réel pour jouer entre amis.
+
+- Création de salons et gestion des joueurs
+- Communication en temps réel avec Socket.io
+- Interface développée avec React et Tailwind CSS
+
+**Stack :** `React` `Node.js` `Express` `Socket.io`
+
+[Voir le projet →](https://github.com/Benaat64/partygame)
+
+</details>
+
+<details>
+<summary><b>💰 La Pince</b> — Application de gestion de budget</summary>
+
+Une application web pour suivre et organiser ses finances personnelles.
+
+[Découvrir mes dépôts →](https://github.com/Benaat64?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>🧩 Mistinguett</b> — Expérience web interactive</summary>
+
+Un mini-site d'énigmes utilisant notamment les chiffrements de César et de Vigenère.
+
+[Découvrir mes dépôts →](https://github.com/Benaat64?tab=repositories)
+
+</details>
 
 ### `> Contact_` <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="35" />
+
+Toujours partant pour échanger autour du développement web, partager des idées ou collaborer sur de nouveaux projets.
 
 [![Email](https://img.shields.io/badge/Email-8FBCBB?style=flat-square&logo=gmail&logoColor=171717)](mailto:TON_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-8FBCBB?style=flat-square&logo=github&logoColor=171717)](https://github.com/Benaat64)
