@@ -59,6 +59,16 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 </details>
 
+<details>
+<summary><b>🧩 DLE-Games</b> — Jeux de devinettes autour de League of Legends</summary>
+
+Une application de jeux de déduction inspirée du concept DLE, autour de l'univers de League of Legends.
+
+<a href="https://github.com/Benaat64?tab=repositories">
+  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
+</a>
+
+</details>
 
 <details>
 <summary><b>📺 HyperSeries</b> — Quiz sur les séries TV</summary>
@@ -70,17 +80,6 @@ Un jeu de quiz pour tester ses connaissances sur les séries télévisées.
 </a>
 <a href="https://github.com/Benaat64/hyperseries-quizz">
   <img src="https://img.shields.io/badge/Code_source-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code source" />
-</a>
-
-</details>
-
-<details>
-<summary><b>🧩 DLE-Games</b> — Jeux de devinettes autour de League of Legends</summary>
-
-Une application de jeux de déduction inspirée du concept DLE, autour de l'univers de League of Legends.
-
-<a href="https://github.com/Benaat64?tab=repositories">
-  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
 </a>
 
 </details>
