@@ -71,9 +71,13 @@ Une application de jeux de déduction inspirée du concept DLE, autour de l'univ
 </details>
 
 <details>
-<summary><b>📺 HyperSeries</b> — Quiz sur les séries TV</summary>
+<summary><b>📺 HyperSeries</b> — Quiz interactif sur les séries TV</summary>
 
-Un jeu de quiz pour tester ses connaissances sur les séries télévisées.
+Application React réalisée en 2 heures dans le cadre d'un test technique pour un stage.
+
+Quiz interactif avec questions à choix multiples, score final, suivi de progression et gestion des erreurs API.
+
+**Stack :** `React` `TypeScript` `Tailwind CSS` `Vite`
 
 <a href="https://hyperseries-quizz.vercel.app/">
   <img src="https://img.shields.io/badge/Jouer_en_ligne-A3BE8C?style=for-the-badge&logo=vercel&logoColor=171717" alt="Jouer en ligne" />
