@@ -1,112 +1,86 @@
 
 <div align="center">
 
-# ROMAIN ESQUERRA
+# Romain Esquerra
 
-**`> Développeur web full-stack junior_`**
+### `> Développeur web full-stack junior_`
 
-Je construis des applications web, des jeux interactifs et des expériences multijoueurs.
+**Je construis des applications web et des jeux interactifs.**  
+Du front-end aux échanges en temps réel entre joueurs.
 
 `React` · `TypeScript` · `Node.js` · `Socket.io`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Benaat64-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benaat64)
-[![Email](https://img.shields.io/badge/Email-Me%20contacter-161B22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romain.esquerra@gmail.com)
+[Portfolio GitHub](https://github.com/Benaat64?tab=repositories) · [Me contacter](mailto:romain.esquerra@gmail.com)
 
 </div>
 
 ---
 
-### `> whoami`
+### `01 / À PROPOS`
 
-```txt
-Nom       Romain Esquerra
-Localisation  Biarritz, France
-Formation    Développeur full-stack JavaScript · O'Clock
+```text
+romain@github:~$ whoami
+
+Nom          Romain Esquerra
+Localisation Biarritz, France
+Formation    Full-stack JavaScript · O'Clock
 Statut       À la recherche d'un premier poste de développeur web
-Intérêts     Applications interactives · Jeux · Temps réel
 ```
 
-J'aime comprendre comment les choses fonctionnent, du composant React jusqu'aux échanges entre le client et le serveur. En ce moment, je développe une plateforme de mini-jeux multijoueurs avec Socket.io.
+J'aime concevoir des projets de bout en bout, comprendre leur fonctionnement et soigner autant la logique que l'expérience utilisateur.
 
-### `> ls ./projects`
+En ce moment, je travaille sur **PartyGame**, une plateforme de mini-jeux multijoueurs avec des salons et des parties synchronisées en temps réel.
+
+### `02 / PROJETS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 [PartyGame](https://github.com/Benaat64/partygame)
+**[01. PartyGame →](https://github.com/Benaat64/partygame)**
 
-Plateforme de mini-jeux multijoueurs : création de salons, gestion des joueurs et synchronisation des parties en temps réel.
+Plateforme de mini-jeux multijoueurs avec création de salons et synchronisation des parties en temps réel.
 
-`React` `Node.js` `Express` `Socket.io`
-
-[Explorer le code →](https://github.com/Benaat64/partygame)
+`React` · `Node.js` · `Express` · `Socket.io`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 [DLE Games](https://github.com/Benaat64/DLE)
+**[02. DLE Games →](https://github.com/Benaat64/DLE)**
 
-Projet de jeux de devinettes développé avec React et TypeScript.
+Jeux de devinettes développés avec React et TypeScript.
 
-`React` `TypeScript` `Vite`
-
-[Explorer le code →](https://github.com/Benaat64/DLE)
+`React` · `TypeScript` · `Vite`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### ⏱️ [HyperSeries Quiz](https://github.com/Benaat64/hyperseries-quizz)
+**[03. HyperSeries Quiz →](https://github.com/Benaat64/hyperseries-quizz)**
 
 Quiz réalisé dans le cadre d'un test technique de deux heures.
 
 `React`
 
-[Explorer le code →](https://github.com/Benaat64/hyperseries-quizz)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚧 Prochain projet
-
-Toujours partant pour expérimenter, apprendre et construire quelque chose de nouveau.
-
-`En cours de réflexion...`
-
 </td>
 </tr>
 </table>
 
-### `> cat stack.txt`
+### `03 / STACK`
 
-**Front-end**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss)
-
-**Back-end & temps réel**
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql)
-![Socket.io](https://img.shields.io/badge/Socket.io-161B22?style=flat-square&logo=socketdotio)
-
-**Outils**
-
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github)
-![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite)
+```text
+FRONT-END    JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS
+BACK-END     Node.js · Express · PostgreSQL · Socket.io
+OUTILS       Git · GitHub · Vite
+```
 
 ---
 
 <div align="center">
 
-**`> echo "Merci d'être passé 👋"`**
+`romain@github:~$ echo "À bientôt 👋"`
 
-📍 Biarritz, France · [Me contacter](mailto:romain.esquerra@gmail.com)
+**[github.com/Benaat64](https://github.com/Benaat64)** · **[Email](mailto:romain.esquerra@gmail.com)**
 
 </div>
