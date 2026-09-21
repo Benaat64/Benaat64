@@ -19,7 +19,7 @@ const romain = {
   database: ["PostgreSQL", "Sequelize"],
   projetActuel: "PartyGame 🎮",
   passions: ["Code", "Gaming", "Créativité"],
-  cafe: true
+  thea: true
 };
 ```
 
