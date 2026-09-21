@@ -59,13 +59,17 @@ Une plateforme de jeux en temps réel pour jouer entre amis.
 
 </details>
 
+
 <details>
-<summary><b>💰 La Pince</b> — Application de gestion de budget</summary>
+<summary><b>📺 HyperSeries</b> — Quiz sur les séries TV</summary>
 
-Une application web pour suivre et organiser ses finances personnelles.
+Un jeu de quiz pour tester ses connaissances sur les séries télévisées.
 
-<a href="https://github.com/Benaat64?tab=repositories">
-  <img src="https://img.shields.io/badge/Voir_le_code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Voir le code" />
+<a href="https://hyperseries-quizz.vercel.app/">
+  <img src="https://img.shields.io/badge/Jouer_en_ligne-A3BE8C?style=for-the-badge&logo=vercel&logoColor=171717" alt="Jouer en ligne" />
+</a>
+<a href="https://github.com/Benaat64/hyperseries-quizz">
+  <img src="https://img.shields.io/badge/Code_source-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Code source" />
 </a>
 
 </details>
