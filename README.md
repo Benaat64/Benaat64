@@ -1,159 +1,76 @@
 
-<div align="center">
+<h2>
+  Hey, I'm Romain
+  <img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/7.gif" width="45" alt="Hello" />
+</h2>
 
-# `> romain.esquerra_`
+<img align="right" src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/3.gif" width="300" alt="Coding animation" />
 
 ### Full-Stack JavaScript Developer
 
-*Building things for the web, one commit at a time.*
+📍 Based in Biarritz, France
+
+🎮 Building interactive & multiplayer web experiences
+
+🌱 Currently exploring TypeScript and real-time applications
+
+💼 Open to new opportunities
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8FBCBB&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Romain+%F0%9F%91%8B;Full-Stack+JavaScript+Developer;Building+multiplayer+experiences;Turning+coffee+into+code+%E2%98%95;Open+to+new+opportunities" alt="Typing animation" />
-
-<br>
-
-<a href="https://github.com/Benaat64">
-  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:TON_EMAIL">
-  <img src="https://img.shields.io/badge/Contact-171717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-## `01. who_am_i`
+### A little more about me...
 
 ```javascript
 const romain = {
-  location: "Biarritz, France 🇫🇷",
-  role: "Full-Stack JavaScript Developer",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
 
-  stack: ["React", "TypeScript", "Node.js"],
+  frontend: ["React", "Vite", "Tailwind CSS"],
 
-  currentlyBuilding: "Multiplayer web games",
+  backend: ["Node.js", "Express", "Socket.io"],
 
-  interests: [
-    "Real-time applications",
-    "Creative web experiences",
-    "Clean & maintainable code"
-  ],
+  database: ["PostgreSQL", "Sequelize"],
 
-  availableFor: "New opportunities"
+  currentProject: "PartyGame 🎮",
+
+  interests: ["Web development", "Gaming", "Creative projects"],
+
+  coffee: true
 };
 ```
 
-Développeur web passionné par la création d'applications interactives, j'aime transformer une idée en un produit concret, du backend jusqu'à l'interface.
+<br clear="right">
 
-En ce moment, je développe une plateforme de mini-jeux multijoueurs avec React, Node.js et Socket.io.
+### Tech stack
 
-J'aime expérimenter, comprendre ce qui se passe derrière le code et construire des projets qui donnent envie d'être utilisés.
+**Frontend**
 
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite&theme=dark" alt="Frontend" />
 
----
+**Backend & Database**
 
-## `02. tech_stack`
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&theme=dark" alt="Backend" />
 
-<div align="center">
+**Tools**
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite&theme=dark" alt="Frontend technologies" />
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&theme=dark" alt="Backend technologies" />
-
-<br><br>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Development tools" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools" />
 
 <br>
 
----
+### What I'm building
 
-## `03. featured_projects`
+**🎮 [PartyGame](https://github.com/Benaat64/partygame)**
 
-<div align="center">
+A multiplayer web gaming platform built with React, Node.js and Socket.io.
 
-### 🎮 PartyGame
-
-**A real-time multiplayer gaming platform.**
-
-Create a room, invite your friends and play together.
-
-Built with React, Node.js and Socket.io.
+Create a room, invite your friends and play together in real time.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,ts&theme=dark" alt="PartyGame stack" />
+### Let's connect!
 
-<br><br>
+<img src="https://raw.githubusercontent.com/ddroid/ddroid/main/Assets/5.gif" width="45" alt="Connect" />
 
-[![Explore PartyGame](https://img.shields.io/badge/Explore_PartyGame-8FBCBB?style=for-the-badge&logo=github&logoColor=171717)](https://github.com/Benaat64/partygame)
+I'm always happy to connect, share ideas and work on interesting projects.
 
-<br>
-
-</div>
-
----
-
-## `04. github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benaat64&layout=compact&hide_border=true&bg_color=00000000&title_color=8FBCBB&text_color=888888&langs_count=6" alt="Most used languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Benaat64&theme=transparent&hide_border=true&ring=8FBCBB&fire=A3BE8C&currStreakLabel=8FBCBB" alt="GitHub streak" />
-
-</div>
-
-<br>
-
----
-
-## `05. currently`
-
-```text
-[✓] Building full-stack applications
-[✓] Exploring real-time multiplayer systems
-[~] Improving my TypeScript skills
-[~] Looking for my next opportunity
-```
-
-<br>
-
----
-
-<div align="center">
-
-### `> let's_connect_`
-
-*Have an idea, a project or an opportunity?*
-
-Let's build something together.
-
-<br>
-
-<a href="mailto:TON_EMAIL">
-  <img src="https://img.shields.io/badge/GET_IN_TOUCH-8FBCBB?style=for-the-badge&logo=gmail&logoColor=171717" alt="Get in touch" />
-</a>
-
-<br><br>
-
-<sub>Made with ☕, JavaScript and a few too many browser tabs.</sub>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-8FBCBB?style=flat-square&logo=gmail&logoColor=171717)](mailto:TON_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-8FBCBB?style=flat-square&logo=github&logoColor=171717)](https://github.com/Benaat64)
